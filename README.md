@@ -8,31 +8,7 @@
 
 ## 📚 Progress
 
-### ✅ Chapter 01 - HTML Basic
-
-- HTML이란?
-- HTML 기본 구조
-- DOCTYPE
-- html
-- head
-- body
-- meta
-- title
-- h1
-- p
-
----
-
-## 🖥 Preview
-
-첫 번째 HTML 웹페이지를 만들었습니다.
-
----
-
-## 💡 Today's Insight
-
-HTML은 단순히 태그를 외우는 언어가 아니라,
-
-**Tag → Attribute → Value → Content**
-
-구조를 이해하는 것이 중요하다.
+- ✅ Chapter 01 - HTML Basic Structure
+- ✅ Chapter 02 - HTML Text Tags
+- ✅ Chapter 03 - HTML Links
+- ⏳ Chapter 04 - HTML Images
