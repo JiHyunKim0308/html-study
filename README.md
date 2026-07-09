@@ -11,4 +11,5 @@
 - ✅ Chapter 01 - HTML Basic Structure
 - ✅ Chapter 02 - HTML Text Tags
 - ✅ Chapter 03 - HTML Links
-- ⏳ Chapter 04 - HTML Images
+- ✅ Chapter 04 - HTML Images
+- ⏳ Chapter 05 - HTML Lists
