@@ -10,4 +10,6 @@
 - ✅ Chapter 02 - HTML Text Tags
 - ✅ Chapter 03 - HTML Links
 - ✅ Chapter 04 - HTML Images
-- ⏳ Chapter 05 - HTML Lists
+- ✅ Chapter 05 - HTML Lists
+- ✅ Chapter 06 - HTML Tables
+- ⏳ Chapter 07 - HTML Forms
